@@ -1,4 +1,4 @@
-# hello-world
+# hello-world :earth_americas:
 
 Exercício de Casa :house:
 1. Utilizando as novas ferramentas
